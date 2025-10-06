@@ -107,8 +107,4 @@ Each team member completed one unique task (no shared responsibilities):
 | *Bernard Ogol*    | Model training, tuning, and cross-validation   |
 | *Straton Amodora*    | Threshold optimization and final model export  |
 
-<<<<<<< HEAD
 > ✅ These contributions will also be summarized on the final slide of our presentation.
-=======
-> ✅ These contributions will also be summarized on the final slide of our presentation.
->>>>>>> 726b28ff50bbda5c7c2b737f2ffc919ff504a05c
