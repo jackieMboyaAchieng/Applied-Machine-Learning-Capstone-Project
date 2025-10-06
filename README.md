@@ -58,31 +58,14 @@ The final model will be evaluated using the **Area Under the ROC Curve (AUC-ROC)
 ### Submission Requirement
 The only material to be delivered is a PDF file uploaded to the virtual campus, containing the **link to the Jupyter notebook** where the final model was developed.
 
-**Final Notebook Link:** [*** ***]
+**Final Notebook Link:** [***https://github.com/jackieMboyaAchieng/Applied-Machine-Learning-Capstone-Project/blob/main/Copy_of_AML_Capstone.ipynb***]
 
 ---
 
-## 🗣️ Presentation and Teamwork
 
-### Presentation Requirements
-* [cite_start]**Duration:** 10 minutes[cite: 7].
-* [cite_start]**Content:** The presentation must cover the evaluated models, the methodologies implemented, the challenges faced, and the solutions adopted[cite: 8].
-* [cite_start]**Crucial Note:** The **performance results of the final model should NOT be revealed** in the presentation[cite: 9].
-
-### Team Contribution
-The **last slide** of the presentation must clearly describe the tasks carried out by every team member. [cite_start]**It is not allowed to assign one task to more than one member**[cite: 64, 65].
-
-| Team Member | Tasks Carried Out |
-| :--- | :--- |
-| **Member 1** | [Insert specific task] |
-| **Member 2** | [Insert specific task] |
-| **Member 3** | [Insert specific task] |
-| **Member 4** | [Insert specific task] |
-
-### Evaluation Breakdown
-[cite_start]The project evaluation is split as follows[cite: 53]:
-
-| Component | Weight | Details |
-| :--- | :--- | :--- |
-| **Presentation** | 80% | [cite_start]Evaluated on overall proposal quality, active participation, individual contributions, and ability to answer questions[cite: 53, 55, 56]. |
-| **Model Validation** | 20% | [cite_start]Evaluation using the reserved dataset, simulating a realistic scenario with previously unseen data[cite: 53, 57, 11]. |
+| Team Member |
+| :--- |
+| **Cosmas O. Okungu**|
+| **Straton Amodora** |
+| **Jackline Mboya** |
+| **Bernard Ogol** |
